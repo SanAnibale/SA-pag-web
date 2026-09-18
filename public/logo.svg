@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 105" width="490" height="105" fill="none">
+  <!-- SA Icon Container -->
+  <rect x="10" y="10" width="85" height="85" rx="16" fill="#1d4b73"/>
+  
+  <!-- SA Text -->
+  <text x="52.5" y="62" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="44" font-weight="800" text-anchor="middle" dominant-baseline="central" letter-spacing="-0.5">SA</text>
+  
+  <!-- Wordmark Text -->
+  <text x="115" y="44" fill="#1d4b73" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="32" font-weight="800" letter-spacing="-0.5">Business Analytics</text>
+  <text x="115" y="82" fill="#1d4b73" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="32" font-weight="400" letter-spacing="-0.5">&amp; Consulting</text>
+</svg>
