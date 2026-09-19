@@ -73,7 +73,7 @@ export const ContactSection: React.FC<ContactSectionProps> = ({ onOpenCalendly }
             </div>
 
             <p className="text-xs text-slate-400">
-              * La llamada de diagnóstico dura 20 minutos y se realiza por Google Meet o Teams.
+              * La llamada de diagnóstico dura 20 minutos y se realiza por Microsoft Teams.
             </p>
           </div>
 

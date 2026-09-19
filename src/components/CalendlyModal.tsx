@@ -61,7 +61,7 @@ export const CalendlyModal: React.FC<CalendlyModalProps> = ({ isOpen, onClose })
               <Video className="w-4 h-4 text-[#136299]" />
               <div>
                 <span className="text-slate-400 block text-[10px] uppercase font-bold">Modalidad</span>
-                <span className="font-semibold text-slate-900">Google Meet</span>
+                <span className="font-semibold text-slate-900">Microsoft Teams</span>
               </div>
             </div>
           </div>
